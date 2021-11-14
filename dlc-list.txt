@@ -1,0 +1,2 @@
+Cube<url>file:///C:/Users/DaniEspinoza/Documents/DLC/Assets/AssetBundles/cube.dlc
+Cube2<url>file:///C:/Users/DaniEspinoza/Documents/DLC/Assets/AssetBundles/cube2.dlc
