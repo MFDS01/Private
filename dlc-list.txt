@@ -1,2 +1,2 @@
-Cube<url>file:///C:/Users/DaniEspinoza/Documents/DLC/Assets/AssetBundles/cube.dlc
+Cube<url>https://github.com/MFDS01/Private/blob/main/cube.dlc?raw=true
 Cube2<url>file:///C:/Users/DaniEspinoza/Documents/DLC/Assets/AssetBundles/cube2.dlc
