@@ -1,2 +1,2 @@
-Cube<url>https://github.com/MFDS01/Private/blob/main/cube.dlc?raw=true
+Cube<url>https://github.com/MFDS01/Private/raw/main/cube.dlc
 Cube2<url>https://github.com/MFDS01/Private/blob/main/cube2.dlc?raw=true
